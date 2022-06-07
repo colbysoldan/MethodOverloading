@@ -12,3 +12,17 @@
 /Users/huntersoldan/Projects/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.dll
 /Users/huntersoldan/Projects/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.pdb
 /Users/huntersoldan/Projects/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.genruntimeconfig.cache
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.deps.json
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.runtimeconfig.json
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.runtimeconfig.dev.json
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.dll
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/bin/Debug/netcoreapp3.1/MethodOverloading.pdb
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.csproj.AssemblyReference.cache
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.AssemblyInfoInputs.cache
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.AssemblyInfo.cs
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.dll
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.pdb
+/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/Debug/netcoreapp3.1/MethodOverloading.genruntimeconfig.cache

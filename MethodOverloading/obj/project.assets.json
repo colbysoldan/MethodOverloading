@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huntersoldan/Projects/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
+      "projectUniqueName": "/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
       "projectName": "MethodOverloading",
-      "projectPath": "/Users/huntersoldan/Projects/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
+      "projectPath": "/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
       "packagesPath": "/Users/huntersoldan/.nuget/packages/",
-      "outputPath": "/Users/huntersoldan/Projects/MethodOverloading/MethodOverloading/obj/",
+      "outputPath": "/Users/huntersoldan/Desktop/csharp27/MethodOverloading/MethodOverloading/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/huntersoldan/.nuget/NuGet/NuGet.Config"
